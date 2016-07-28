@@ -1,0 +1,1 @@
+<cfset get_teacher_list_full = "#application.enrollmentservices.ListAllTeacher()#" />

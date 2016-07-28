@@ -1,0 +1,1 @@
+<cfset get_enrollment_by_id = "#application.enrollmentservices.getEnrollmenttID(url.id)#" />

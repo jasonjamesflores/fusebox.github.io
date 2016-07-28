@@ -1,0 +1,1 @@
+<cfset get_subject_list = "#application.subjectservices.ListAllSubject()#" />

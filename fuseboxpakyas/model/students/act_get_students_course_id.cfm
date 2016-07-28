@@ -1,0 +1,1 @@
+<cfset get_students_by_id = "#application.studentservices.getStudentID(url.id)#" />

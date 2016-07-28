@@ -1,0 +1,1 @@
+<cfset get_subjects_by_id = "#application.subjectservices.getSubjectID(url.id)#" />

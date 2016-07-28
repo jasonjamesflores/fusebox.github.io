@@ -1,0 +1,1 @@
+<cfset get_course_list = "#application.courseservices.ListAllCourse()#" />
